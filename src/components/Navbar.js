@@ -7,7 +7,7 @@ import { ReactComponent as Logo } from "../assets/images/logo.svg";
 
 export default function Navbar() {
   return (
-    <nav>
+    <nav className="relative top-0">
       <div className="flex flex-col">
         {/* Top bar */}
         <div className="flex justify-end items-center py-4 space-x-3 bg-[#1a1a1a]">

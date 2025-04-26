@@ -12,7 +12,7 @@ import SupportImg from '../../assets/images/support.svg';
 
 const VSPDataSheet = () => {
   return (
-    <div className="space-y-8">
+    <div className="space-y-8 py-[2rem]">
       <h2 className="text-center text-3xl font-semibold">WHAT WE OFFER</h2>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
         <div className="flex flex-col items-center">
